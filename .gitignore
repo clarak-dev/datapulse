@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+venv/**
+
+# Dados
+dados/raw/
+dados/processed/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Sistema
+.DS_Store
+Thumbs.db
